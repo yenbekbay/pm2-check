@@ -27,7 +27,7 @@ npm install
 ln -s <path-to-pm2-check>/index.js <path-to-bitbar-plugins>/pm2-check.30m.js
 ```
 
-5\. Refresh the plugins with BitBar and key an eye on your processes. :)
+5\. Refresh the plugins with BitBar and keep an eye on your processes. :)
 
 ## The MIT License
 
