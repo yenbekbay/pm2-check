@@ -1,0 +1,7 @@
+{
+  "servers": [{
+    "name": "<server-name>",
+    "host": "<server-ip>",
+    "user": "<your-username>"
+  }]
+}
